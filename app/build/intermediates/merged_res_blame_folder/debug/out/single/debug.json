@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.PhidgetRCServoExample.app-merged_res-15:/layout_main.xml.flat",
+        "source": "com.example.PhidgetRCServoExample.app-main-17:/layout/main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lee\\.gradle\\daemon\\7.5\\com.example.PhidgetRCServoExample.app-merged_res-15:\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lee\\.gradle\\daemon\\7.5\\com.example.PhidgetRCServoExample.app-main-17:\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lee\\.gradle\\daemon\\7.5\\com.example.PhidgetRCServoExample.app-merged_res-15:\\layout_main.xml.flat",
+        "source": "C:\\Users\\Lee\\.gradle\\daemon\\7.5\\com.example.PhidgetRCServoExample.app-main-17:\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lee\\.gradle\\daemon\\7.5\\com.example.PhidgetRCServoExample.app-merged_res-15:\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lee\\.gradle\\daemon\\7.5\\com.example.PhidgetRCServoExample.app-main-17:\\drawable-hdpi\\ic_launcher.png"
+    }
+]
